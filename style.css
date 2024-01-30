@@ -58,6 +58,7 @@ header ul li a:hover {
 	box-sizing: border-box;
 }
 .banner {
+	background: url("TA/revisibaner.jpg");
 	background-image: url("../TA/revisibaner.jpg");
 	background-position: center;
 	background-size: cover;
